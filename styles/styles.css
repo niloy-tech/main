@@ -210,3 +210,12 @@ ul li a{
     height: 342px;
     margin: 137px 149px 137px 151px;
 }
+
+.card {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.card-class {
+    display: flex;
+    justify-content: space-between;
+}
